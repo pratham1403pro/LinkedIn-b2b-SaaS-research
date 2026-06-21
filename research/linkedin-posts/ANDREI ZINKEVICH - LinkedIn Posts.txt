@@ -1,0 +1,141 @@
+ANDREI ZINKEVICH - LinkedIn Posts
+
+---
+
+POST 1
+
+URL: https://www.linkedin.com/feed/update/urn:li:activity:7473698642965712897/
+
+Date: 19/06/2026
+
+Welcome to ClaudekedIn. You're allowed to be here if:
+
+- You spend more time in Claude than with your family and friends, and you are proud of it, and regularly post about it
+- Your profile is AI-native, Claude-written
+- You have replaced everything and everybody with AI agents
+- Your brain, experience and background now lives in Claude md
+- Your favorite phrases are: «This is not a problem. The problem is…», «Not because it's .., Because it's…»
+- You've spent your entire retirement plan on extra tokens
+- You vibe-coded your clone who handles questions from your kids, asks from your wife, generally, all information and requests, so you can spend time on what matter: Claude Code.
+- The only poster you have in your working space is the quote: AI won't replace humans, but humans with AI will do
+- You roll your eyes and demonstratively sigh when you hear that people still do something manually
+
+ClaudekedIn is an invite-only community.
+
+Comment «ClaudekedIn». Then smash that bell button in my profile, follow me, and I'll send you an invite. You'll never regret 😁
+
+---
+
+POST 2
+
+URL: https://www.linkedin.com/feed/update/urn:li:activity:7472977222958669824/
+
+Date: 18/06/2026
+
+"Nobody from my strategic accounts literally knows us". At the same time marketing team is:
+
+- Under-resourced. 2 people are supporting 3 verticals and 3 different sales teams in one region with a partial support from a global marketing team.
+- Stretched into multiple activities: sales enablement content, partnerships, signals tracking, events, running AI initiatives.
+- Challenged to run campaigns. Because campaigns is the only way to get a visible marketing interaction in CRM to prove marketing-influenced pipeline later.
+
+While sales is running outbound and pushing marketing to generate more leads.
+
+There are 3 problems:
+
+- Trying to create awareness at scale without a methodology.
+- Thinking that only marketing is responsible for creating awareness
+- Ignoring how buyers actually become aware of different vendors
+
+Fundamental fix is to stop pushing marketing to run into multiple directions and develop a methodology to create brand awareness among strategic accounts. This includes:
+
+- How we select and prioritize accounts
+- Research on how the buying groups become aware of different buyers
+- Mapping out a buyer ecosystem: how and where you can influence target buyers directly and indirectly
+- Aligning global always-on programs with the use cases of strategic accounts to distribute the same messaging across all channels
+- Develop time-based and signal-based playbooks that build one on another to have a consistent flow of touchpoints with the target accounts
+- Turning the playbooks into weekly todos for marketing and sales
+
+Before blaming marketing for lack of awareness among strategic accounts:
+
+- remove the constraints
+- build the methodology
+- ensure that creating awareness is actually a strategic priority, not one more task on already full plate of the marketing team
+
+---
+That being said, creating awareness in 2026 is WAY HARDER than it was before:
+
+- Higher CPC
+- Drop in organic search and organic reach of content on socials.
+- AI-based vendor search and evaluation without talking to sales
+- AI slop
+- Increased volume of outbound emails
+
+We invited Kerry Cunningham and Matt Heinz next week to chat about what works today to create awareness among strategic accounts + invite CMOs, Heads of Marketing, Demand gen, and ABM leads.
+
+Let me know in the comments (just type interested) if you'd like to attend.
+
+---
+
+POST 3
+
+URL: https://www.linkedin.com/feed/update/urn:li:activity:7471175395640315905/
+
+Date: 13/06/2026
+
+Here is one tiny naughty truth about B2B demand generation programs that work....
+
+They are aligned with the 3 levels of demand.
+
+1. DEMAND FOR CONTENT.
+
+Buying intent: -/low.
+
+Example:
+I'm a B2B CMO selling high ACV product across a long sales cycle. I've my H2 plan and just interested in learning best practices and stay updated with industry news.
+
+Demand gen goals:
+Motivate buyers to:
+- engage with your content
+- start following you/your company
+- signing up for your events
+- signing up for the newsletter
+
+Average cycle: 6-8 months.
+
+2. DEMAND FOR SOLUTION.
+
+This is a stage when buyers prioritize challenges and strategic projects, and evaluate different solutions.
+
+Buying intent: low/medium.
+
+Example:
+We're missing revenue targets by 20%. Sales complains about lack of awareness among strategic accounts. We're aligned with them in theory, but haven't done anything in practice. What should we do?
+
+Demand gen goals:
+- Drive traffic to your use case page
+- Nurture with "solution-based" content the entire buying committee
+
+Average cycle: 3-6 months.
+
+3. DEMAND FOR VENDOR.
+
+This is a stage where the buying decision happens. Buyers do vendor research and talk to vetted vendors. The first vendors they select are the vendors that attracted their attention earlier.
+
+Buying intent: high.
+
+Example:
+We want to create a unified account-based methodology that will help to align marketing and sales around strategic accounts. Which vendor will help us to create and implement the methodology with our resources and budget?
+
+Demand gen goals:
+- Generate sales opportunities
+
+Average cycle: 1–3 months.
+
+----
+For many years, our industry believed that buyers move through linear stages: "problem aware - solution aware - vendor aware".
+
+But the truth is I simply don't know people who are not problem aware. It's either they haven't prioritized it or there are organizational constraints that won't allow fixing it.
+
+Another truth: the buyers often become vendor aware way before they become solution aware. So, if we focus only on trying to generate demand for us as a vendor, we are already losing.
+
+Demand for vendor is created way before the problem or strategic project becomes a top priority.

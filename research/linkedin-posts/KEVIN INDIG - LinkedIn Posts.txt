@@ -1,0 +1,43 @@
+KEVIN INDIG - LinkedIn Posts
+
+---
+
+POST 1
+
+URL: https://www.linkedin.com/feed/update/urn:li:activity:7473753188240769025/
+
+Date: 19/06/2026
+
+Getting prompt tracking and AI visibility tracking right is harder than it looks.
+I'll break down with Jason Barnard what works at the Kalicube® Summit on June 24 and 25.
+Free to attend: https://lnkd.in/e_fhHbPx
+
+---
+
+POST 2
+
+URL: https://www.linkedin.com/feed/update/urn:li:activity:7473336241837731841/
+
+Date: 18/06/2026
+
+Two brands can run identical on-page optimization and get cited by AI at completely different rates.
+The gap is off-property reputation. AI reuses the trust already attached to the sources it pulls from, and it favors entities it already recognizes on a topic. It doesn't form a fresh opinion about your brand on every query.
+Your owned blog feeds that, but it's one of the weaker inputs. The model has no reason to take your word for your own authority. The publications, analysts, and competitors that mention you give it something it can trust without asking you.
+That's why I treat on-page work as just one lever for AI citations. With optimization roughly equal, the brand that wins is the one AI already trusts through other sources.
+Before you tune another title tag, check which sources AI cites in your space and whether any of them mention you.
+I broke the citation gap down in the latest Growth Memo.
+
+---
+
+POST 3
+
+URL: https://www.linkedin.com/feed/update/urn:li:activity:7472655609654337536/
+
+Date: 17/06/2026
+
+AI search needs an operating model.
+Semrush just launched the AI Search Operating System, organized into four layers based on how AI platforms find and assess brands.
+I contributed to Layer 1: Brand Discoverability.
+This layer covers the signals that help AI systems identify a brand and use its information in their answers.
+The full course is now live: https://bit.ly/4vDJic3
+#SemrushPartner
